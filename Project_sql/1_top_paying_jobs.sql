@@ -1,3 +1,7 @@
+/*
+Question: What are the top 10 highest-paying Data Analyst roles?
+Goal: Identify remote opportunities with the best financial return.
+*/
 SELECT 
     job_title_short,
     salary_year_avg,
